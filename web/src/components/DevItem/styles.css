@@ -1,0 +1,90 @@
+
+li.dev-item{
+    background: #fff;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 2px;
+    padding: 20px;
+
+}
+
+li.dev-item header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+li.dev-item header img{
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+}
+
+li.dev-item header .user-info{
+    margin-left: 10px;
+}
+
+
+li.dev-item p{
+    color: #666;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0;
+}
+li.dev-item a{
+    color: #8e4dff;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+li.dev-item a:hover{
+    color: #5a2ea6;
+}
+div.isolar-botao{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 0;
+}
+div.isolar-botao button.dot-option{
+
+    background: #8e4dff;
+    border-radius: 3px;
+    cursor: pointer;
+    flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    right: 0;
+    border: 0;
+    padding: 5px;
+}
+
+div.isolar-botao button.dot-option:hover{
+    background: #5a2ea6;
+}
+
+div.isolar-botao div.option-box{
+    background: red;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    border-radius: 5px;
+    margin-top: 30px;
+    display: block;
+}
+
+div button.option-button{
+    width: 100%;
+   cursor: pointer;
+    border: 0;
+    background-color: transparent;
+    color: #fff;
+}
+
+
+
+
+
+
