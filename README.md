@@ -3,7 +3,7 @@
 
  ![Omnistack-Wallpaper](https://user-images.githubusercontent.com/59922096/73108435-1dfd7380-3edf-11ea-90bd-29478f4acfdb.png)
 
-A semana Omnistack é um evento online dado pela Rocketseat onde em 5 aulas libaradas em 5 dias, é desenvoldido uma aplicação do zero, com back-end e front-end.
+A semana Omnistack é um evento online dado pela [Rocketseat](https://rocketseat.com.br/) onde em 5 aulas libaradas em 5 dias, é desenvoldido uma aplicação do zero, com back-end e front-end.
 
 
 #  🚀 Tecnologias
@@ -21,7 +21,7 @@ Uma aplicação Web utilizando React
 E um aplicativo mobile Utilizando o React Native
 
 # 💻 Projeto
-O projeto desenvoldido foi o devradar um sistema utilizado para encontrar desenvolvedores em uma localização em um raio de 10km possuindo filtro de pesquisa por tecnologia desejada
+O projeto desenvoldido foi o devradar um sistema utilizado para encontrar desenvolvedores em uma localização em um raio de 10Km possuindo filtro de pesquisa por tecnologia desejada
 
 A apicação mobile utiliza o mapa para encontrar os devs
 
@@ -55,5 +55,8 @@ Com isso a aplicação web ira abrir em seu navegador
 
 Com isso a aplicação web ira abrir em seu navegador
 
+# 👨‍💻Desenvolvedor
+Desenvolvido por [Fhelipe Augusto Rodrigues](https://www.linkedin.com/in/fhelipe-rodrigues-b57a52196/)
+
 # 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo *LICENSE* para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENCE](https://github.com/oFhelipe/devradar/blob/master/LICENSE) para mais detalhes.
