@@ -51,7 +51,7 @@ Com isso a aplicação web ira abrir em seu navegador
 #### 📱Mobile
 1. Entre na pasta Mobile
 2. Rode o comando ```yarn``` para instalar as dependencias
-3. Rode o comando ```yarn start``
+3. Rode o comando ```yarn start```
 
 Com isso a aplicação web ira abrir em seu navegador
 
