@@ -53,7 +53,7 @@ Com isso a aplicação web ira abrir em seu navegador
 2. Rode o comando ```yarn``` para instalar as dependencias
 3. Rode o comando ```yarn start```
 
-Com isso a aplicação web ira abrir em seu navegador
+Com isso irá abrir em seu navegador uma página, após a geração do QR code baixe o app do expo em seu celular escaneie o codigo e abra o app em seu celular 
 
 # 👨‍💻Desenvolvedor
 Desenvolvido por [Fhelipe Augusto Rodrigues](https://www.linkedin.com/in/fhelipe-rodrigues-b57a52196/)
