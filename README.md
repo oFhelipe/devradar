@@ -1,5 +1,13 @@
 # devradar
- Projeto resultado da Semana Omnistack #10 
+![project_language](https://img.shields.io/badge/language-javascript-f7d84a)
+![server_backend](https://img.shields.io/badge/backend%2Fserver-node-green)
+![web](https://img.shields.io/badge/web-react-b831f6)
+![mobile](https://img.shields.io/badge/mobile-react%20native-f6a431)
+![license](https://img.shields.io/badge/license-MIT-green)
+![package_manager](https://img.shields.io/badge/package%20manager-yarn-informational)
+![tool](https://img.shields.io/badge/tool-expo-f76f4a)
+
+Projeto resultado da Semana Omnistack #10 
 
  ![Omnistack-Wallpaper](https://user-images.githubusercontent.com/59922096/73108435-1dfd7380-3edf-11ea-90bd-29478f4acfdb.png)
 
